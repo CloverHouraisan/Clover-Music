@@ -1,6 +1,7 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa"
+		"nmlgc/base_tsa",
+		"nmlgc/base_tasofro"
 	],
 	"id": "music_mod",
 	"servers": [
